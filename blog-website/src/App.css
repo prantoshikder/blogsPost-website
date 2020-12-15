@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+ul,
+ol,
+li {
+    list-style: none;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}

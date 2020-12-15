@@ -1,0 +1,41 @@
+.top-banner-part {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 78%);
+    height: 90vh;
+    background: rgb(2, 162, 255);
+    padding: 20px 0px;
+}
+
+.banner-content {
+    padding-top: 15%;
+}
+
+.banner-content h1 {
+    color: #fff;
+}
+
+.banner-content p {
+    color: #fff;
+    line-height: 28px;
+    margin-bottom: 25px;
+}
+
+.banner-btn a {
+    padding: 12px 24px;
+    border-radius: 10px;
+    background: rgb(6, 197, 255);
+    color: #fff;
+    text-decoration: none;
+}
+
+.banner-img {
+    padding-top: 15px;
+}
+
+.banner-img img {
+    height: 470px;
+}
+
+.banner-btn a:hover {
+    text-decoration: none;
+    color: #fff;
+}

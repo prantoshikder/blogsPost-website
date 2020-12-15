@@ -1,0 +1,21 @@
+.footer-part {
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(12, 9, 121, 0.7234244039412641) 0%, rgba(0, 212, 255, 1) 100%);
+    padding: 50px 0px;
+}
+
+.contact-form {
+    padding: 15px;
+    border-radius: 15px;
+    background: #00d4ff;
+}
+
+.social-icon .icon {
+    color: #fff;
+    margin: 15px;
+    font-size: 25px;
+    transition: .3s ease-in-out;
+}
+
+.social-icon .icon:hover {
+    transform: translateY(-10px);
+}
